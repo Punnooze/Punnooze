@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **firebase, typescript**
 
-- 👯 I’m looking to collaborate on **making amazinf websites**
+- 👯 I’m looking to collaborate on **making amazing websites**
 
 - 💬 Ask me about **react, nextjs**
 
